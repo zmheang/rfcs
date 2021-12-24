@@ -5,7 +5,7 @@
 
 # Summary
 
-Introducing a new syntax for scoped slots usage:
+Introducing a new syntax for scoped slots usage:  // 为作用域插槽使用引入新语法：
 
 - New directive `v-slot` that unifies `slot` and `slot-scope` in a single directive syntax.
 
